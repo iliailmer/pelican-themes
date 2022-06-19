@@ -80,9 +80,6 @@
 [submodule "storm"]
 	path = storm
 	url = https://github.com/redVi/storm.git
-[submodule "pure"]
-	path = pure
-	url = https://github.com/danclaudiupop/pure.git
 [submodule "jesuislibre"]
 	path = jesuislibre
 	url = https://github.com/badele/pelican-theme-jesuislibre.git
@@ -209,9 +206,6 @@
 [submodule "apricot"]
 	path = apricot
 	url = https://github.com/livibetter-backup/apricot.git
-[submodule "lab"]
-	path = lab
-	url = https://github.com/mothsART/pelican-lab.git
 [submodule "eevee"]
 	path = eevee
 	url = https://github.com/kura/eevee.git
@@ -261,3 +255,6 @@
 [submodule "stirring"]
 	path = stirring
 	url = https://github.com/hansliu/pelican-stirring.git
+[submodule "Papyrus"]
+	path = Papyrus
+	url = https://github.com/aleylara/Papyrus
